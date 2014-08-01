@@ -1,15 +1,11 @@
 ---
-title: Portfolio
+layout: default
 ---
-{% include header.html %}
 
-<div class="row-fluid">
-    <div class="span8">
-        {{ content }}
-    </div>
-    <div class="span4">
-        {% include sidebar.html %}
-    </div>
-</div>
+{% include header.html %}
+<h3 class="content"> {{page.title}}</h3>
+<img src="{{ page.image }}" />
+
+{{content}}
 
 {% include footer.html %}

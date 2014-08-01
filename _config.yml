@@ -1,7 +1,7 @@
 name: "Noah Coleman"
 description: "My interwebz abode"
 url: "http://localhost:4000"
-paginate: 2
+# paginate: 2
 markdown: redcarpet
 permalink: pretty
 pygments: true
