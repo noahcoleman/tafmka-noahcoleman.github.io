@@ -889,7 +889,7 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 body {
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Avenir", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 13px;
   line-height: 1.42857143;
   color: #777777;
@@ -990,7 +990,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Avenir", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 300;
   line-height: 1.1;
   color: #444444;
@@ -3868,7 +3868,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-brand {
   float: left;
   padding: 11px 15px;
-  font-size: 17px;
+  font-size: 21px;
   line-height: 18px;
   height: 40px;
 }
@@ -6176,7 +6176,7 @@ button.close {
   color: #d9230f;
 }
 .btn {
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Avenir", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .btn-default,
 .btn-default:hover {

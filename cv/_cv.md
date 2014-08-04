@@ -1,13 +1,13 @@
 ---
 title: CV
-format: default
+format: cv
 
 ---
 
 #CV
 ##Education
-The School of the Art Institute of Chicago, 2015 (expected), MFA Art &amp; Technology Studies
-Brigham Young University, 2011, BFA Studio Arts—Sculpture Emphasis
+The School of the Art Institute of Chicago, 2015 (expected), MFA Art & Technology Studies
+Brigham Young University, 2011, BFA Studio Arts: Sculpture Emphasis
 
 ##Solo Exhibitions
 ###2012	
@@ -47,7 +47,7 @@ Y Sculpture, Snow College, Ephraim, UT
 
 ###2010	
 Comfort and Joy, Covey Center for the Arts, Provo, UT
-25th Annual Spiritual &amp; Religious Show, Springville Museum of Art, Springville, UT
+25th Annual Spiritual & Religious Show, Springville Museum of Art, Springville, UT
 Nature and Nurture: Narratives of the Family Juried Exhibition (award), Harris Fine Arts Center, Provo, UT
 Red Hot Juried Art Auction (catalog), Museum of Glass, Tacoma, WA
 Lights and Perfections, Harris Fine Arts Center, Provo, UT
@@ -67,7 +67,7 @@ Schrödinger’s Box, Harris Fine Arts Center, Provo, UT
 
 ##Bibliography
 Ehren Clark, “For the Time Being: Installations by Pam Bowman and Noah Coleman at Art Access,” 15 	Bytes, February 2012, http://artistsofutah.org/15bytes/12feb/page7.html.
-Gavin Sheehan, “January Gallery Stroll: Pam Bowman &amp; Noah Coleman,” City Weekly: Gavin’s Underground, January 22, 2012, http://www.cityweekly.net/utah/blog-70-6986-january-gallery-stroll-pam-bowman-noah-coleman.html.
+Gavin Sheehan, “January Gallery Stroll: Pam Bowman & Noah Coleman,” City Weekly: Gavin’s Underground, January 22, 2012, http://www.cityweekly.net/utah/blog-70-6986-january-gallery-stroll-pam-bowman-noah-coleman.html.
 Angela Marler, “Slinky Art: ‘Repetition, Rhythm, Ritual’ Opens,” Daily Universe, March 2, 2011.
 
 {% include footer.html %}
