@@ -1,0 +1,16 @@
+---
+title: 2014
+layout: default
+---
+<h1>{{page.title}}</h1>
+{% for post in site.tags.2014 %}
+  {{ post.excerpt }}
+  <br>
+  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  
+{% endfor %}
