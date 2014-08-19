@@ -1,6 +1,6 @@
 ---
 title: CV
-format: cv
+layout: cv
 
 ---
 
