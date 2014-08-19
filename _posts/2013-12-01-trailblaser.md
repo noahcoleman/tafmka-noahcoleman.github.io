@@ -1,6 +1,12 @@
 ---
-layout: portfolio
+layout: gallery
 title: TrailbLaser (Sine Wave)
+image: 
+  - /img/trailbLaser/trailbLaser001.jpg
+image-alt:
+  - ''
+image-caption:
+  - 'Installation view.'
 tags: laser SAIC MFA GITD phosphorescent arduino Art&Tech 2013
 ---
 

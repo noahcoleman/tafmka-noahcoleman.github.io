@@ -1,5 +1,5 @@
 ---
-layout: portfolio
+layout: gallery
 title: He Does Not Realize That This is the Beauty of Life
 tags: kinetic BYU glass bronze 2011
 ---
