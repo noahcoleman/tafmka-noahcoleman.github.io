@@ -1,8 +1,13 @@
 ---
 layout: gallery
-title: Oxbow 1
-tags: glass video "new media" "art & tech" projection oxbow
+title: What the Left Hand Knows
+tags: glass video "new media" "art & tech" projection oxbow glassblowing 2014
 image: 
+  - /img/WhatTheLeftHandKnows/WhatTheLeftHandKnows000.jpg
+image-alt:
+  - ''
+image-caption:
+  - 'Installation view.'
 ---
 
 I made this piece as a part of [Charlotte Potter's](http://charlottepotter.com) and [Kim Harty's](http://kimharty.com) class, Video + Glass: Optics of the Lens.
