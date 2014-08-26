@@ -4,7 +4,9 @@ title: Orfelia Fultoni
 tags: openFrameworks code animation Art&Tech SAIC MFA 2014
 ---
 
+<div class="js-video vimeo widescreen">
 <iframe src="//player.vimeo.com/video/99901991?title=0&amp;byline=0&amp;portrait=0" width="750" height="422" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 
 [{{page.title}}.](http://vimeo.com/99901991)  2014.  Custom Software, Projection.
 

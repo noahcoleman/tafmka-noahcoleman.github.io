@@ -4,7 +4,9 @@ title: He Does Not Realize That This is the Beauty of Life
 tags: kinetic BYU glass bronze 2011
 ---
 
+<div class="js-video vimeo widescreen">
 <iframe src="//player.vimeo.com/video/56948410?title=0&amp;byline=0&amp;portrait=0" width="750" height="422" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+</div>
 
 [{{page.title}}.](http://vimeo.com/56948410)  2011.  Bronze, glass, motor, steel, hardware.
 
