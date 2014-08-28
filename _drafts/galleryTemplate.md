@@ -6,7 +6,7 @@ image:
 image-alt:
   - ''
 image-caption:
-  - 'Installation view.'
+  - '{{page.title}}. Installation view.'
 tags: glass video "new media" "art & tech" projection "fiber optic" oxbow 2014 projector
 ---
 
