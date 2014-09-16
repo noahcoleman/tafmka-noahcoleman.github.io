@@ -3,7 +3,6 @@ layout: gallery
 title: What the Left Hand Knows
 tags: glass video "new media" "art & tech" projection oxbow glassblowing 2014
 image: 
-  - /img/WhatTheLeftHandKnows/WhatTheLeftHandKnows000.jpg
   - /img/WhatTheLeftHandKnows/WhatTheLeftHandKnows001.jpg
   - /img/WhatTheLeftHandKnows/WhatTheLeftHandKnows002.jpg
   - /img/WhatTheLeftHandKnows/WhatTheLeftHandKnows003.jpg
@@ -15,12 +14,13 @@ image-alt:
   - ''
   - ''
 image-caption:
-  - 'What the Left Hand Knows. Installation view.'
   - 'What the Left Hand Knows. Detail.'
   - 'What the Left Hand Knows. Detail.'
   - 'What the Left Hand Knows. Detail.'
   - 'What the Left Hand Knows. Detail.'
 ---
+<img src="/img/WhatTheLeftHandKnows/WhatTheLeftHandKnows000.jpg" alt="" class="img-responsive">
+<figcaption>What the Left Hand Knows. 2014. Glass, brick, video. Installation view.</figcaption>
 
 I made this piece as a part of [Charlotte Potter's](http://charlottepotter.com) and [Kim Harty's](http://kimharty.com) class, Video + Glass: Optics of the Lens.
 
