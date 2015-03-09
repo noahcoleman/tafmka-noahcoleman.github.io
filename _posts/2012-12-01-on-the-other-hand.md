@@ -3,7 +3,7 @@ layout: gallery
 title: On the Other Hand
 tags: glass animation video technology 2012
 image: 
-  - /img/OnTheOtherHand/OnTheOtherHand001.jpg
+  - /assets/img/OnTheOtherHand/OnTheOtherHand001.jpg
 image-alt:
   - 'Installation view.'
 image-caption:
