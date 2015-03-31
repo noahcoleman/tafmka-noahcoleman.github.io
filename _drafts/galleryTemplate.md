@@ -2,7 +2,7 @@
 layout: gallery
 title: One Thousand Suns
 image: 
-  - /img/1000Suns/1000Suns001.jpg
+  - /assets/img/1000Suns/1000Suns001.jpg
 image-alt:
   - ''
 image-caption:
