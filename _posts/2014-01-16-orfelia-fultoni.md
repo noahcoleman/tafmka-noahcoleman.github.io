@@ -1,7 +1,7 @@
 ---
 layout: portfolio
 title: Orfelia Fultoni
-tags: openFrameworks code animation Art&Tech SAIC MFA 2014
+tags: openFrameworks code animation "art & tech" SAIC MFA 2014 kimball
 ---
 
 <div class="js-video vimeo widescreen">

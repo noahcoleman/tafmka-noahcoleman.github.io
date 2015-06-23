@@ -13,7 +13,8 @@ image-caption:
   - 'Different frequency Lissajous curve.'
   - 'Installation view.'
   - 'Installation view.'
-tags: laser servo "new media" "art & tech" projection 2015 GITD phosphorescent SAIC MFA arduino
+tags: laser servo "new media" "art & tech" projection 2015 GITD phosphorescent SAIC MFA arduino kimball
+excerpt_separator: <!--more-->
 ---
 <img src="/assets/img/Lissajous/Lissajous001.jpg" alt="" class="img-responsive">
 <figcaption>Lissajous. 2015. Laser, arduino, servos, electronics, phosphorescent paint.</figcaption>

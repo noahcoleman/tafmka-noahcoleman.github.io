@@ -1,7 +1,7 @@
 ---
 layout: portfolio
 title: Intraocular
-tags: SAIC MFA Art&Tech GITD phosphorescent 2014
+tags: SAIC MFA "new media" "art & tech" GITD phosphorescent 2014 kimball
 ---
 
 <div class="js-video vimeo widescreen">
