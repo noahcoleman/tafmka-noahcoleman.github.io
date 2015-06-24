@@ -23,4 +23,4 @@ excerpt_separator: <!--more-->
 
 [{{page.title}}](http://vimeo.com/103531803).  2014.  Laser, arduino, servos, electronics, phosphorescent paint.  -->
 
-This project uses a laser to excite a phosphorescent surface in the shape of a Lissajous curve.
+Part of a series of machines that exist in the space between mathematic precision and human frailty, they do their best within their limits to execute algorithmic drawings by passing the point of a laser over a phosphorescent surface.  They use the computing power of an Arduino microcontroller to calculate the programmed coordinates and send the laser to that point.  This process repeats several times a second. Due to limitations in the software and hardware, the physical output of these machines varies with each repetition.  
