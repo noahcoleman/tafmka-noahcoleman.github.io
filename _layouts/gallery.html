@@ -2,7 +2,7 @@
 
 {% include header.html %}
 
-<h3 class="content"> {{page.title}}</h3>
+<h2 class="content"> {{page.title}}</h2>
 <br>
 {{content}}
 <br>
@@ -15,6 +15,9 @@
         <img src="{{ page.image[forloop.index0] }}" alt="{{ page.image-alt[forloop.index0] }}" class="img-responsive"> <!-- Insert the src, the alt text for each image, using the forloop.index0 liquid helper -->
       </figure>
       <figcaption>{{ page.image-caption[forloop.index0] }}</figcaption> <!-- and the figcaption too -->
+      <br>
+      <br>
+      <br>
         <!-- </div>
       </div> -->
       {% endfor %}
