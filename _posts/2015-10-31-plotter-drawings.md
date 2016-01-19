@@ -43,7 +43,7 @@ image-caption:
   - 'Untitled (Horizontal Lines Square in Blue). Detail.'
   - 'Untitled (15 Circle Triangle, Black and Embossed) 2015. Ballpoint pen on paper. 20" x 36".'
   - 'Untitled (15 Circle Triangle, Black and Embossed). Detail.'
-  - 'Untitled (Hatched Cube in Light Blue, Blue, and Silver)2015. Ballpoint pen on paper. 26" x 40".'
+  - 'Untitled (Hatched Cube in Light Blue, Blue, and Silver). 2015. Ballpoint pen on paper. 26" x 40".'
   - 'Untitled (Hatched Cube in Light Blue, Blue, and Silver). Detail.'
   - 'Untitled (9 Cirlce Square). 2015. Ballpoint pen on paper. 18" x 30".'
   - 'Untitled (Horizontal Lines Square in Blue #2). 2015. Ballpoint pen on paper. 9" x 12".'
