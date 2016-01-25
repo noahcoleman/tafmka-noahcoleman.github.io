@@ -49,7 +49,7 @@ image-caption:
   - 'Untitled (Horizontal Lines Square in Blue #2). 2015. Ballpoint pen on paper. 9" x 12".'
   - 'Untitled (Horizontal Lines Rectangle in Black #2). 2015. Ballpoint pen on paper. 9" x 12".'
 
-tags: plotter drawing "art & tech" pen ballpoint paper ink geometric repetition 
+tags: plotter drawing "art & tech" pen ballpoint paper ink geometric repetition 2015
 ---
 <img src="/assets/img/PlotterDrawings/PlotterDrawings002.jpg" alt="" class="img-responsive">
 <figcaption>Untitled (21 Circle Triangle). Detail.</figcaption>
