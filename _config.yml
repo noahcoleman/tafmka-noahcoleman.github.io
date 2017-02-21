@@ -1,6 +1,6 @@
 name: "Noah Coleman"
 description: "Artist, educator, maker."
 url: "http://localhost:4000"
-markdown: redcarpet
+markdown: kramdown
 permalink: pretty
 highlighter: pygments
