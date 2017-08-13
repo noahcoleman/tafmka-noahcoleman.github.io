@@ -1,2 +1,2 @@
-cd ~/Documents/Website
+cd ~/Documents/noahcoleman.github.io
 bundle exec jekyll serve --watch
